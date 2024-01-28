@@ -1,0 +1,620 @@
+[
+    {
+        "person_id": "398150",
+        "surname": "ABAGNALE",
+        "first_name": "CAMILLO",
+        "date_of_birth": "13/07/1953",
+        "birth_place": "SANT'ANTONIO ABATE (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE CAMILLO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "29/03/2022",
+                "number": "0000015522"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "29/06/1979"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1979 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "20/01/2024"
+    },
+    {
+        "person_id": "340585",
+        "surname": "ABAGNALE",
+        "first_name": "CARLA",
+        "date_of_birth": "05/07/1981",
+        "birth_place": "GRAGNANO (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE CARLA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "27/11/2006",
+                "number": "0000031744"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI SECONDA UNIVERSITA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "22/12/2005"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI SECONDA UNIVERSITA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2006 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "NAPOLI SECONDA UNIVERSITA",
+                "specializzazione_name": "PEDIATRIA ",
+                "year": "13/05/2015"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "606774",
+        "surname": "ABAGNALE",
+        "first_name": "CAROLINA",
+        "date_of_birth": "15/03/1997",
+        "birth_place": "PRIVERNO (LT)",
+        "province": " LATINA (LT)",
+        "full_name": "Dott.ssa ABAGNALE CAROLINA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "LATINA",
+                "year": "12/07/2022",
+                "number": "0000004597"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA LA SAPIENZA I FACOLTA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "27/06/2022"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA I FACOLTA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2022 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "17/01/2024"
+    },
+    {
+        "person_id": "619964",
+        "surname": "ABAGNALE",
+        "first_name": "CHIARA",
+        "date_of_birth": "28/02/1998",
+        "birth_place": "CASTELLAMMARE DI STABIA (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE CHIARA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "19/07/2023",
+                "number": "0000039596"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "10/07/2023"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "2023 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "562548",
+        "surname": "ABAGNALE",
+        "first_name": "CHIARA",
+        "date_of_birth": "04/09/1993",
+        "birth_place": "PRIVERNO (LT)",
+        "province": " LATINA (LT)",
+        "full_name": "Dott.ssa ABAGNALE CHIARA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "LATINA",
+                "year": "06/03/2019",
+                "number": "0000004214"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA LA SAPIENZA POLO PONTINO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "26/07/2018"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2018 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "17/01/2024"
+    },
+    {
+        "person_id": "614243",
+        "surname": "ABAGNALE",
+        "first_name": "CHIARA",
+        "date_of_birth": "19/04/1996",
+        "birth_place": "POMPEI (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE CHIARA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "21/12/2022",
+                "number": "0000039335"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "20/12/2022"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "2022 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "353696",
+        "surname": "ABAGNALE",
+        "first_name": "CIRO",
+        "date_of_birth": "09/02/1963",
+        "birth_place": "SANT'ANTONIO ABATE (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE CIRO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "06/02/1992",
+                "number": "0000025667"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI SECONDA UNIVERSITA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "28/10/1991"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1991 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "NAPOLI",
+                "specializzazione_name": "IDROLOGIA MEDICA ",
+                "year": "29/10/1997"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "595649",
+        "surname": "ABAGNALE",
+        "first_name": "DAVIDE PIO",
+        "date_of_birth": "26/01/1997",
+        "birth_place": "CASTELLAMMARE DI STABIA (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE DAVIDE PIO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "19/07/2021",
+                "number": "0000038203"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "09/07/2021"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "2021 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "577648",
+        "surname": "ABAGNALE",
+        "first_name": "FEDERICA",
+        "date_of_birth": "29/10/1994",
+        "birth_place": "CASTELLAMMARE DI STABIA (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE FEDERICA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "27/05/2020",
+                "number": "0000037231"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ESTERA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "19/12/2019"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MINISTERO DELLA SALUTE",
+                "name": "Medicina e Chirurgia ",
+                "year": "0000 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "159341",
+        "surname": "ABAGNALE",
+        "first_name": "GENNARO",
+        "date_of_birth": "12/07/1962",
+        "birth_place": "GRAGNANO (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE GENNARO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "06/03/1989",
+                "number": "0000024028"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/11/1988"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1988 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "NAPOLI",
+                "specializzazione_name": "GASTROENTEROLOGIA ENDOSCOPIA DIGESTIVA ",
+                "year": "15/07/1994"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICINA GENERALE": "MEDICINA GENERALE"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "590150",
+        "surname": "ABAGNALE",
+        "first_name": "GIOVANNA",
+        "date_of_birth": "19/07/1994",
+        "birth_place": "SCAFATI (SA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE GIOVANNA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "03/02/2021",
+                "number": "0000037896"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "SALERNO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "05/11/2020"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "SALERNO",
+                "name": "Medicina e Chirurgia ",
+                "year": "2020 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "57992",
+        "surname": "ABAGNALE",
+        "first_name": "GIUSEPPE",
+        "date_of_birth": "27/12/1954",
+        "birth_place": "CASOLA DI NAPOLI (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE GIUSEPPE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "28/12/1978",
+                "number": "0000014801"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "14/10/1978"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1978 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "NAPOLI",
+                "specializzazione_name": "PEDIATRIA PREVENTIVA E PUERICULTURA ORIENTAMENTO NEONATOLOGIA ",
+                "year": "29/05/1991"
+            },
+            {
+                "university_name": "NAPOLI",
+                "specializzazione_name": "NEUROLOGIA ",
+                "year": "18/11/1982"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "9227",
+        "surname": "ABAGNALE",
+        "first_name": "GIUSEPPE",
+        "date_of_birth": "05/06/1961",
+        "birth_place": "GRAGNANO (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE GIUSEPPE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "12/01/1995",
+                "number": "0000027237"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI SECONDA UNIVERSITA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/07/1994"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1994 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "558680",
+        "surname": "ABAGNALE",
+        "first_name": "LUCIA",
+        "date_of_birth": "17/05/1990",
+        "birth_place": "CASTELLAMMARE DI STABIA (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE LUCIA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "27/02/2019",
+                "number": "0000036601"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "27/07/2018"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "2018 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "115353",
+        "surname": "ABAGNALE",
+        "first_name": "RAFFAELE",
+        "date_of_birth": "17/08/1962",
+        "birth_place": "CASOLA DI NAPOLI (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT. ABAGNALE RAFFAELE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "26/01/2004",
+                "number": "0000030447"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "13/02/2003"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "2003 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "NAPOLI",
+                "specializzazione_name": "OTORINOLARINGOIATRIA ",
+                "year": "31/10/2007"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICINA GENERALE": "MEDICINA GENERALE"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "104167",
+        "surname": "ABAGNALE",
+        "first_name": "REGINA",
+        "date_of_birth": "06/09/1953",
+        "birth_place": "SANT'ANTONIO ABATE (NA)",
+        "province": " NAPOLI (NA)",
+        "full_name": "DOTT.SSA ABAGNALE REGINA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "NAPOLI",
+                "year": "30/04/1979",
+                "number": "0000015366"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "NAPOLI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "30/03/1979"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1979 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "208769",
+        "surname": "ABAGNALE",
+        "first_name": "ROBERTA",
+        "date_of_birth": "08/05/1964",
+        "birth_place": "NAPOLI (NA)",
+        "province": " ROMA (RM)",
+        "full_name": "Dott.ssa ABAGNALE ROBERTA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "ROMA",
+                "year": "25/01/1989",
+                "number": "0000040125"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA UNIVERSITA CATTOLICA SACRO CUORE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "24/10/1988"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA UNIVERSITA CATTOLICA SACRO CUORE",
+                "name": "Medicina e Chirurgia ",
+                "year": "1988 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "ROMA UNIVERSITA CATTOLICA SACRO CUORE",
+                "specializzazione_name": "GASTROENTEROLOGIA ENDOSCOPIA DIGESTIVA ",
+                "year": "05/11/1992"
+            }
+        ],
+        "last_update_date": "17/01/2024"
+    }
+]
