@@ -4,7 +4,7 @@ import time
 
 import pandas as pd
 from bs4 import BeautifulSoup
-from selenium.webdriver import Chrome, ChromeOptions
+from selenium.webdriver import Firefox, FirefoxOptions, Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -19,12 +19,16 @@ data = []
 def get_data(url, df):
     browser_options = ChromeOptions()
     driver = Chrome(options=browser_options)
+
+    # browser_options = FirefoxOptions()
+    # driver = Firefox(options=browser_options)
     driver.get(url)
 
     wait = WebDriverWait(driver, 10)
 
     for outer_index, row in df.iterrows():
-        sure_name_input = row["name"]
+        # sure_name_input = row["name"]
+        sure_name_input = "Abate"
 
         sure_name = wait.until(EC.presence_of_element_located((By.ID, "cognomeID")))
 
@@ -184,13 +188,11 @@ def get_data(url, df):
 
         try:
             back_link = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, "//a[@class='nav-link' and text()='Nuova ricerca']")))
+                EC.presence_of_element_located((By.XPATH, "//a[@class='nav-link' and text()='Nuova ricerca']")))
 
             driver.execute_script("arguments[0].click();", back_link)
         except Exception as e:
             print(f"Error: {e}")
-
-
 
 
 def export_csv(output):
@@ -200,15 +202,19 @@ def export_csv(output):
 
 
 def main():
-    start_time = time.time()
-    df = pd.read_csv(file_path)
-    get_data(url=HOMEPAGE, df=df)
-    export_csv(data)
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    end_time = time.time()
-    total_time = end_time - start_time
-    print(f"DONE Total time taken: {total_time} seconds")
+    try:
+        start_time = time.time()
+        df = pd.read_csv(file_path)
+        get_data(url=HOMEPAGE, df=df)
+        end_time = time.time()
+        total_time = end_time - start_time
+        print(f"DONE Total time taken: {total_time} seconds")
+    except Exception as e:
+        print(f"Error: {e}")
+    finally:
+        export_csv(data)
+        with open('data.json', 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == '__main__':
